@@ -1,3 +1,2 @@
 #!/bin/bash
 echo "Hello, Wolrd" > 0-hello_world
-Hello, World
