@@ -1,0 +1,1 @@
+Public authentication is used for passwordless logins between systems. It is often used for automated processes, such as backups, configuration management, and file transfers. It is also used by sophisticated end users and system administrators for single sign-on. See the public key authentication for configuring it.
