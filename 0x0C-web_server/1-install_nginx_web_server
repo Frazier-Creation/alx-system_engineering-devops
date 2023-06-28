@@ -1,4 +1,4 @@
-qq:wq:#!/usr/bin/env bash
+#!/usr/bin/env bash
 # This script install nginx on ubuntu  server
 
 apt-get -y update
